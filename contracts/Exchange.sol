@@ -26,7 +26,7 @@ contract Exchange is Killable {
     Info private _buyer;
     Info private _seller;
 
-    // Token contract instances.
+    // Token contracts instances.
     EXP private _exp;
     GBP private _gbp;
 
